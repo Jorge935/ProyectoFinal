@@ -1,0 +1,501 @@
+Numero de Inscripcion,Nombre,Apellido Paterno,Apellido Materno,Edad,Direccion,Numero de Cuenta,Semestre,Creditos
+1,Ulises,Gonzales,Reyes,20,Rincón Eslava,526054366,5,24
+2,Alba,Contreras,Mamani,21,Prolongación Ermitaño,624720367,2,6
+3,Andres,Martinez,Villalba,25,Los Cedros,301290368,5,30
+4,Andres,Portillo,Salazar,26,Los Campesinos [Rancho],593795369,3,6
+5,Penelope,Reyes,Sosa,27,Ocotenco (La Loma Cazulco),442658370,3,12
+6,Eric,Zambrano,De Leon,23,Segundo Dinamo,515777371,11,45
+7,Enrique,Reyes,Torres,23,La Papa [Escuela Niños Héroes],855819372,4,22
+8,Lucas,Moreno,Sosa,21,Los Aguacates,427633373,5,20
+9,Isis,Espinoza,Zambrano,21,Llanito Redondo,566039374,2,6
+10,Enzo,Castro,Duarte,19,Valle de las Monjas,256524375,8,41
+11,Leticia,Pineda,Flores,27,El Gavillero,716274376,11,6
+12,Bernardo,Pereira,Reyes,26,Iztacalco,552458377,6,36
+13,Ivan,Rivas,Villalba,20,Iztacalco,530801378,11,36
+14,Alba,Contreras,Hernandez,24,La Polea,235027379,7,6
+15,Manuel,Martinez,Vera,18,Rancho Chichicaspa,513627380,10,6
+16,Alejandro,Alvarez,Salazar,24,Puerto las Cruces (Monte las Cruces),335880381,8,42
+17,Ana,Garcia,Sosa,23,Totolapan,397368382,3,19
+18,Margarita,Gomez,Vera,25,El Gavillero,864220383,11,22
+19,Jorge,Sosa,Gonzalez,26,Segundo Dinamo,330970384,10,28
+20,Penelope,Perez,Castillo,22,El Ocotal (La Carbonera),680690385,6,6
+21,Luz,Sanchez,Rojas,24,Los Cedros,337089386,9,13
+22,Gabriel,De Leon,Gonzalez,19,La Cañada [Parque],927578387,3,21
+23,Raquel,Pereira,Salazar,24,La Campana [Rancho],136286388,9,45
+24,Luz,Garcia,Rodriguez,27,Los Aguacates,609456389,7,6
+25,Penelope,Alvarez,Duarte,22,Rancho Chichicaspa,751024390,2,18
+26,Manuel,Castro,Garcia,22,El Gavillero,562433391,2,6
+27,Penelope,Pereira,Santana,18,Albergue Alpino Ajusco,860601392,4,6
+28,Alejandro,Espinoza,Duarte,20,Ejido de San Nicolás Totolapan,474793393,4,30
+29,Hugo,Silva,Gutierrez,24,Iztacalco,477775394,9,6
+30,Esther,Morales,Mora,23,Los Tejocotes,657221395,10,11
+31,Nora,Gimenez,Lopez,19,Ocotenco (La Loma Cazulco),156376396,11,88
+32,Lucia,Martinez,Mora,27,Rancho Viejo,386489397,5,6
+33,Lucas,Martinez,Ramirez,20,Meyuca,996757398,11,6
+34,Zeus,Santana,Contreras,23,Los Aguacates,985365399,11,33
+35,Luz,Rivas,Moreno,26,Sehuaya,311716400,9,52
+36,Neymar,Pereira,Salazar,24,La Cañada [Parque],115192401,9,78
+37,Martin,Vera,Alvarez,22,Rancho Viejo,944742402,8,44
+38,Leticia,Vargas,Mamani,22,Coatzehuaya,162301403,8,6
+39,Leticia,Gonzales,Soto,21,Los Laureles [Rancho],598193404,7,6
+40,Moises,Santana,Sosa,23,Cola de Pato,956201405,8,6
+41,Margarita,Morales,Sosa,19,Sehuaya,601675406,9,29
+42,Luz,Alvarez,Benitez,23,El Gavillero,228422407,2,12
+43,Martin,Alvarez,Rodriguez,23,Meyuca,866845408,4,42
+44,Alba,Hernandez,Pineda,25,Rancho Chichicaspa,251778409,9,6
+45,Margarita,Pereira,Pineda,23,Teopazulco,640026410,3,21
+46,Eva,Vera,Mora,22,Meyuca,189871411,3,14
+47,Alba,De Leon,Mejia,22,Rincón Eslava,582888412,7,26
+48,Raquel,Rodriguez,Castillo,22,Los Campesinos [Rancho],999277413,5,6
+49,Margarita,Diaz,Rivas,24,Ocotenco (La Loma Cazulco),885779414,5,6
+50,Hector,Morales,Gomez,24,Punta Ahuatenco,546948415,10,6
+51,Alba,Sosa,Rodriguez,20,La Polea,532597416,5,48
+52,Moises,Santos,Moreno,27,Valle de las Monjas,338662417,4,19
+53,Ulises,Rivera,Castillo,25,Rancho Viejo,652776418,2,14
+54,Gerard,Torres,Sosa,26,Rancho Viejo,659548419,2,24
+55,Lara,Villalba,Vargas,20,La Campana [Rancho],677716420,5,6
+56,Lucia,Vera,Jimenez,20,La Campana [Rancho],720612421,5,11
+57,Alejandro,Castillo,Mamani,19,Rincón Eslava,834737422,10,38
+58,Gabriel,Flores,Castro,21,Meyuca,611433423,4,30
+59,Jorge,Perez,Vera,25,Puerto las Cruces (Monte las Cruces),907499424,6,42
+60,Ivan,Soto,Perez,19,Punta Galicia,290879425,4,16
+61,Enrique,Gonzalez,Sosa,20,Cruz Blanca,417154426,7,28
+62,Gerard,Hernandez,Torres,23,La Campana [Rancho],796648427,6,6
+63,Lucas,Gonzalez,Lopez,23,Albergue Alpino Ajusco,816694428,10,6
+64,Manuel,Munoz,Portillo,23,Rancho Chichicaspa,638620429,7,52
+65,Margarita,Espinoza,Villalba,21,Las Golondrinas,816144430,6,6
+66,Helena,Jimenez,Santana,19,Iztacalco,124152431,3,34
+67,Andres,Gonzalez,Moreno,20,Rincón Eslava,685756432,7,58
+68,Hector,Jimenez,Quispe,21,El Zarco,376958433,5,34
+69,Isis,Pineda,Mora,22,La Loma,118670434,5,38
+70,Sara,Alvarez,Rojas,23,Los Laureles [Rancho],712750435,5,19
+71,Alejandro,Pereira,Perez,19,El Gavillero,802647436,5,12
+72,Alba,Zambrano,Rivera,22,El Zarco,762323437,7,6
+73,Lucas,Torres,Silva,26,La Magdalena Contreras,537796438,10,15
+74,Lucia,De Leon,Pereira,24,La Loma,185983439,4,18
+75,Enrique,Castillo,Sosa,26,Paraje Cerro de los Padres,215262440,6,21
+76,Sara,Gomez,Sanchez,27,La Papa [Escuela Niños Héroes],860674441,5,6
+77,Samuel,Rodriguez,Duarte,21,Puerto las Cruces (Monte las Cruces),839973442,4,36
+78,Sara,Ramirez,Rojas,18,La Campana [Rancho],750948443,11,13
+79,Felipe,Rivas,Castro,22,Totolapan,323553444,6,29
+80,Mariana,Duarte,Mamani,26,Santa Laura [Rancho],925975445,8,6
+81,Sara,Hernandez,Rodriguez,25,Teopazulco,557927446,4,44
+82,Lucia,Sanchez,Garcia,25,Llanos de Acopilco,817275447,2,11
+83,Eric,Reyes,Santana,26,Los Tejocotes,831598448,3,13
+84,Ana,Jimenez,Mora,23,Valle de las Monjas,551158449,2,14
+85,Ulises,Moreno,Munoz,18,Llanos de Acopilco,556622450,9,27
+86,Moises,Espinoza,Contreras,21,Gustavo A. Madero,612465451,11,6
+87,Zeus,Santana,Castro,21,Meyuca,685322452,6,6
+88,Penelope,Pineda,Martinez,24,Paraje Chichicaspa,299592453,11,22
+89,Gabriel,Rojas,Torres,25,Rancho Chichicaspa,968596454,10,24
+90,Martin,Espinoza,Villalba,22,Punta Ahuatenco,320367455,7,6
+91,Gerard,Diaz,Benitez,18,Paraje Cerro de los Padres,545605456,7,17
+92,Isabel,Gimenez,Ramirez,26,La Loma,827177457,4,36
+93,Andres,Villalba,Zambrano,19,Punta Ahuatenco,837525458,2,14
+94,Alvaro,Martinez,Quispe,23,Cuajimalpa de Morelos,369035459,2,12
+95,Moises,Moreno,Santana,20,Prolongación Ermitaño,485555460,8,19
+96,Gerard,Vargas,Martinez,20,Santa Rosa,567493461,11,20
+97,Mariana,Rivera,Gimenez,18,Ejido de San Nicolás Totolapan,219173462,2,24
+98,Lucia,Castillo,Benitez,27,Rincón Eslava,888741463,5,22
+99,Lucas,Ramirez,Perez,26,El Zarco,568237464,11,54
+100,Leo,Gomez,Gonzalez,20,Coatzehuaya,586401465,9,6
+101,Hugo,Mora,Rojas,21,Totolapan,836575466,3,34
+102,Manuel,Gonzalez,Castillo,22,La Bolsa (El Encinal),623002467,9,72
+103,Ulises,Salazar,Gimenez,20,Paraje Cerro de los Padres,285167468,9,48
+104,Lucia,Gomez,Santana,27,Albergue Alpino Ajusco,896577469,4,40
+105,Bernardo,Torres,Salazar,27,Albergue Alpino Ajusco,132377470,10,52
+106,Eva,Flores,Morales,27,Paraje Cerro de los Padres,337595471,4,6
+107,Leo,Gonzales,Ramirez,24,Llanos de Acopilco,132433472,5,16
+108,Lucas,Munoz,Ramirez,24,Paraje Río Borracho,726249473,5,50
+109,Ana,Sosa,Sosa,19,Santa Rosa,335726474,8,66
+110,Hector,Quispe,Diaz,21,La Venta,825663475,7,17
+111,Isabel,Contreras,Duarte,23,San Lorenzo Acopilco,359384476,3,14
+112,Isis,De Leon,Sosa,21,Albergue Alpino Ajusco,287553477,11,6
+113,Moises,Castillo,Mamani,26,Sehuaya,918381478,4,21
+114,Moises,Alvarez,Gonzales,18,La Papa [Escuela Niños Héroes],841231479,9,20
+115,Jorge,Garcia,Flores,27,Albergue Alpino Ajusco,948221480,2,24
+116,Emma,Rojas,Soto,27,Valle del Tezontle,215484481,5,22
+117,Marta,Rodriguez,Villalba,24,Santa Rosa,857343482,9,6
+118,Mar,Duarte,Vargas,27,El Zarco,397938483,11,6
+119,Alba,Salazar,Zambrano,22,Los Campesinos [Rancho],242002484,4,6
+120,Mariana,Torres,Santos,18,Paraje Chichicaspa,318001485,9,12
+121,Marta,Gonzalez,Santana,21,Las Golondrinas,170723486,6,6
+122,Margarita,Zambrano,Rivera,24,La Cañada [Parque],717993487,10,66
+123,Leo,Quispe,Castillo,18,La Cañada [Parque],461402488,8,11
+124,Ana,Gimenez,Santos,26,Los Tejocotes,361513489,8,86
+125,Alejandro,Rivas,Mejia,26,El Ocotal (La Carbonera),198257490,5,6
+126,Felipe,Salazar,Alvarez,26,La Campana [Rancho],158312491,8,6
+127,Mariana,Gutierrez,Gonzalez,27,La Cañada [Parque],817600492,11,17
+128,Mar,Mamani,Pereira,27,Paraje Río Borracho,162657493,7,60
+129,Jorge,Vargas,Sanchez,21,La Venta,650624494,11,20
+130,Manuel,Duarte,Morales,27,La Campana [Rancho],310140495,6,6
+131,Leo,Sosa,Sanchez,27,San Lorenzo Acopilco,787784496,5,54
+132,Eric,Castillo,Vera,25,Iztapalapa,262141497,10,96
+133,Raquel,Espinoza,Vargas,26,Llanito Redondo,436840498,11,21
+134,Jorge,Mora,Rodriguez,27,Ocotenco (La Loma Cazulco),598769499,7,17
+135,Mar,Sanchez,Lopez,21,Los Campesinos [Rancho],532575500,2,24
+136,Leo,Silva,Sosa,21,Cola de Pato,607629501,11,48
+137,Leo,Gonzales,Perez,20,Santa Laura [Rancho],426183502,4,6
+138,Margarita,Quispe,Castro,21,La Venta,860839503,10,15
+139,Esther,Quispe,Salazar,18,La Polea,703930504,5,6
+140,Esther,Zambrano,Gonzalez,25,Prolongación Ermitaño,440599505,8,26
+141,Penelope,Lopez,Santana,19,Los Aguacates,468930506,6,20
+142,Felipe,Mamani,Espinoza,20,La Magdalena Contreras,651663507,7,17
+143,Manuel,Pineda,Mora,22,Albergue Alpino Ajusco,360119508,10,72
+144,Alejandro,Sanchez,Contreras,18,La Cañada [Parque],159017509,6,16
+145,Isabel,Fernandez,Santana,18,San Lorenzo Acopilco,518263510,3,6
+146,Manuel,Jimenez,Pineda,24,Ejido de San Nicolás Totolapan,697157511,8,60
+147,Hugo,Martinez,Perez,24,Puerto las Cruces (Monte las Cruces),521141512,4,6
+148,Gabriel,Gonzalez,Gutierrez,24,Iztapalapa,951487513,5,50
+149,Mar,Gimenez,Quispe,18,Cruz Blanca,399868514,8,22
+150,Zeus,Salazar,Morales,20,Las Golondrinas,764206515,10,50
+151,Andres,Rivera,Lopez,23,La Cañada [Parque],741994516,5,18
+152,Mar,Moreno,Espinoza,19,La Magdalena Contreras,766540517,6,40
+153,Helena,Vargas,Gonzalez,21,Prolongación Constitución,360319518,11,22
+154,Alejandro,Sosa,Santana,22,Los Campesinos [Rancho],441293519,3,20
+155,Ana,Pereira,Garcia,22,Rancho Viejo,429210520,9,6
+156,Lucas,Rivera,Zambrano,27,La Polea,450848521,6,25
+157,Martin,Quispe,Hernandez,23,Rancho Chichicaspa,558533522,11,39
+158,Martin,Santana,Benitez,20,Iztacalco,857061523,8,37
+159,Sara,Gonzales,Castro,24,Paraje Río Borracho,506463524,6,44
+160,Jorge,Soto,Benitez,24,Iztapalapa,661001525,8,6
+161,Gabriel,Castro,Gimenez,18,Los Aguacates,113411526,9,30
+162,Helena,Rivera,Moreno,25,Paraje Río Borracho,220409527,10,44
+163,Ulises,Rivas,Pereira,24,Punta Ahuatenco,189207528,4,23
+164,Hugo,Silva,Espinoza,24,Prolongación Ermitaño,614111529,10,34
+165,Mar,Villalba,Castro,19,Rancho Chichicaspa,255079530,8,41
+166,Mar,Salazar,Jimenez,22,La Bolsa (El Encinal),970861531,6,16
+167,Eva,Rivas,Benitez,18,Coatzehuaya,358391532,11,28
+168,Isabel,Hernandez,Sosa,21,Los Laureles [Rancho],690401533,6,22
+169,Alba,Hernandez,Vargas,22,Los Tejocotes,151976534,5,56
+170,Alvaro,Portillo,Munoz,24,Cruz Blanca,256527535,10,6
+171,Martin,Flores,Pereira,18,Los Campesinos [Rancho],948964536,9,44
+172,Eva,Salazar,Rivas,27,Sehuaya,785078537,6,6
+173,Esther,Diaz,Rojas,20,Paraje Cerro de los Padres,433138538,5,18
+174,Lara,Espinoza,Morales,24,Puerto las Cruces (Monte las Cruces),401710539,6,25
+175,Lara,Zambrano,Moreno,23,San Lorenzo Acopilco,244254540,4,6
+176,Moises,Benitez,Torres,27,Punta Galicia,326741541,8,12
+177,Alejandro,Mora,Santos,21,Valle de las Monjas,995159542,11,46
+178,Alba,Espinoza,Castillo,25,Puerto las Cruces (Monte las Cruces),145381543,9,39
+179,Luz,Jimenez,Moreno,21,Los Laureles [Rancho],261633544,7,66
+180,Leo,Gonzales,Gonzales,22,El Ocotal (La Carbonera),273189545,3,16
+181,Lucas,Pereira,Silva,24,La Cañada [Parque],815868546,3,20
+182,Mar,Fernandez,Gonzales,27,La Campana [Rancho],730617547,11,6
+183,Helena,Mora,Alvarez,20,Los Campesinos [Rancho],424376548,8,26
+184,Sara,Silva,Pineda,19,Los Laureles [Rancho],255137549,8,58
+185,Alejandro,Moreno,Rivas,20,Paraje Cerro de los Padres,686421550,3,26
+186,Jorge,Silva,Martinez,27,Rancho Viejo,281123551,3,6
+187,Hector,Castro,Vera,20,Meyuca,579882552,5,34
+188,Isis,Gonzales,Flores,26,Punta Galicia,167156553,8,43
+189,Felipe,Castro,Rojas,21,Iztacalco,616730554,7,6
+190,Lucia,Villalba,Alvarez,18,Rancho Chichicaspa,193184555,6,14
+191,Bernardo,Pineda,Sosa,20,La Magdalena Contreras,104852556,11,6
+192,Ulises,Pineda,Gomez,23,Santa Rosa,578724557,7,13
+193,Zeus,Vera,Moreno,23,Iztacalco,516317558,11,6
+194,Hugo,Diaz,Rojas,19,El Zarco,732403559,11,104
+195,Eric,Alvarez,Villalba,22,Segundo Dinamo,749125560,8,32
+196,Raquel,Gonzales,Castro,27,El Zarco,697318561,4,6
+197,Eva,De Leon,Gomez,22,Punta Galicia,664065562,9,6
+198,Eva,Munoz,Mejia,21,Rancho Viejo,521286563,6,18
+199,Hugo,Sosa,Gonzalez,18,Llanito Redondo,327944564,11,19
+200,Zeus,Contreras,Santos,24,Rancho Chichicaspa,489545565,11,48
+201,Emma,Rodriguez,Santos,20,Paraje Río Borracho,457114566,2,18
+202,Raquel,Garcia,Alvarez,23,Valle de las Monjas,255798567,5,6
+203,Moises,Zambrano,Ramirez,24,Cola de Pato,199135568,10,6
+204,Eric,Gonzalez,Martinez,20,Paraje Río Borracho,755552569,3,11
+205,Sara,Jimenez,Martinez,21,Los Aguacates,237199570,9,78
+206,Hector,Rojas,Lopez,19,Rancho Chichicaspa,457823571,5,32
+207,Mariana,Gonzalez,Ramirez,21,Cruz Blanca,476784572,11,19
+208,Leticia,Torres,Espinoza,26,La Cañada [Parque],267924573,2,18
+209,Mariana,Flores,Alvarez,25,Los Tejocotes,858870574,11,28
+210,Neymar,Morales,Rivas,21,Los Aguacates,569399575,2,16
+211,Penelope,Morales,Gonzalez,26,La Polea,277019576,7,6
+212,Ulises,Salazar,Mejia,24,Albergue Alpino Ajusco,750350577,10,6
+213,Isabel,Castro,Vera,19,Sehuaya,687719578,5,52
+214,Ana,Sosa,Martinez,23,Cola de Pato,295849579,2,6
+215,Lara,Duarte,Rivera,26,La Magdalena Contreras,833942580,5,32
+216,Raul,Flores,Santana,23,La Polea,194065581,6,15
+217,Isis,Garcia,Pineda,21,Gustavo A. Madero,772294582,4,6
+218,Leo,Sosa,Gomez,21,La Polea,741272583,8,30
+219,Raquel,De Leon,Vargas,19,Albergue Alpino Ajusco,315318584,5,21
+220,Raul,Pineda,Gutierrez,24,Sehuaya,188605585,4,6
+221,Ivan,Martinez,Garcia,24,Gustavo A. Madero,663187586,9,42
+222,Enzo,Alvarez,Alvarez,25,Punta Ahuatenco,897892587,2,6
+223,Bernardo,Silva,Vargas,18,Ejido de San Nicolás Totolapan,248566588,5,30
+224,Zeus,Soto,Mamani,22,Totolapan,268440589,2,11
+225,Emma,Villalba,Vera,19,La Loma,279299590,5,48
+226,Felipe,Mamani,Torres,18,San Lorenzo Acopilco,272574591,3,24
+227,Zeus,Fernandez,De Leon,27,Los Campesinos [Rancho],179303592,4,6
+228,Andres,Gonzales,Espinoza,18,Cruz Blanca,165032593,9,44
+229,Lucia,Morales,Gutierrez,24,La Magdalena Contreras,575668594,4,11
+230,Manuel,Pineda,Garcia,19,La Venta,499292595,6,6
+231,Mariana,Mora,Munoz,20,Cruz Blanca,799146596,6,6
+232,Isis,Fernandez,Gimenez,24,Rancho Chichicaspa,476659597,9,22
+233,Leo,Villalba,Quispe,22,Los Aguacates,627844598,11,12
+234,Alvaro,Pineda,Silva,19,Totolapan,703212599,8,26
+235,Helena,Espinoza,Soto,23,Cola de Pato,590598600,10,42
+236,Eva,Sanchez,Gonzalez,19,La Polea,221741601,8,50
+237,Mar,Rivas,Rivas,25,Ejido de San Nicolás Totolapan,149658602,10,6
+238,Mar,Sanchez,Pereira,20,Punta Galicia,959168603,9,6
+239,Penelope,Pineda,Lopez,27,Rancho Viejo,959137604,4,23
+240,Cristiano,Ramirez,Ramirez,25,Los Campesinos [Rancho],303780605,6,6
+241,Ana,Espinoza,Sosa,22,Totolapan,502279606,4,6
+242,Cristiano,Silva,Vargas,23,Prolongación Constitución,532709607,6,6
+243,Margarita,Reyes,Castillo,18,Los Campesinos [Rancho],109758608,5,26
+244,Martin,Benitez,Mejia,25,Llanos de Acopilco,397435609,9,34
+245,Hugo,Contreras,Mejia,20,Segundo Dinamo,514117610,6,34
+246,Leo,Rodriguez,Morales,22,Iztacalco,831608611,8,58
+247,Mar,Munoz,Fernandez,26,Rancho Chichicaspa,597722612,5,12
+248,Hector,Gomez,Morales,20,Los Laureles [Rancho],234852613,4,22
+249,Andres,Perez,Sosa,19,Iztacalco,189438614,6,6
+250,Martin,Soto,Espinoza,27,Rancho Viejo,883005615,5,19
+251,Lucia,Moreno,Moreno,26,Iztapalapa,778270616,10,12
+252,Margarita,Pineda,Alvarez,23,San Lorenzo Acopilco,678454617,8,19
+253,Enrique,Martinez,Diaz,20,Iztapalapa,334661618,2,12
+254,Leo,Castillo,Alvarez,19,Iztapalapa,973156619,10,58
+255,Margarita,Zambrano,Mamani,26,Teopazulco,735801620,9,12
+256,Martin,Garcia,Fernandez,23,La Cañada [Parque],905886621,11,24
+257,Lucia,Soto,Rivera,27,La Venta,182340622,5,6
+258,Alba,Moreno,Sosa,25,Sehuaya,929407623,7,6
+259,Leo,De Leon,De Leon,27,Albergue Alpino Ajusco,215457624,5,11
+260,Sara,Soto,Rodriguez,26,Valle de las Monjas,607456625,4,6
+261,Raul,Lopez,Quispe,26,Segundo Dinamo,326036626,4,6
+262,Zeus,Mejia,Espinoza,26,Llanos de Acopilco,664786627,9,51
+263,Samuel,Sosa,Fernandez,24,Iztacalco,818560628,7,6
+264,Marta,Castillo,Jimenez,24,Meyuca,368846629,3,32
+265,Juan,Santana,Gimenez,21,La Magdalena Contreras,710790630,4,6
+266,Helena,Alvarez,Sosa,24,Santa Laura [Rancho],992897631,7,48
+267,Esther,Duarte,Espinoza,18,Rincón Eslava,511528632,3,18
+268,Esther,Gutierrez,Soto,21,Llanito Redondo,609463633,8,11
+269,Zeus,Perez,Gomez,21,Rancho Chichicaspa,402923634,9,18
+270,Isabel,Castillo,Garcia,18,Los Aguacates,749389635,5,40
+271,Lucas,Gonzalez,Salazar,26,Santa Laura [Rancho],383900636,11,6
+272,Raquel,Mamani,Hernandez,20,Cruz Blanca,133738637,8,44
+273,Lucia,Rojas,Lopez,22,Coatzehuaya,185974638,8,6
+274,Lucas,De Leon,Martinez,24,Santa Rosa,118867639,11,6
+275,Luz,Pineda,Zambrano,27,Santa Rosa,359771640,2,11
+276,Nora,Garcia,Santos,26,Iztapalapa,375954641,9,24
+277,Bernardo,Lopez,Pineda,25,Paraje Cerro de los Padres,728777642,8,28
+278,Jorge,Ramirez,Garcia,21,La Campana [Rancho],203705643,2,6
+279,Lara,Rojas,Portillo,19,Los Campesinos [Rancho],856804644,5,17
+280,Mar,Martinez,Salazar,26,Punta Galicia,654761645,3,12
+281,Ulises,Portillo,Gimenez,23,Rancho Chichicaspa,844999646,5,26
+282,Mariana,Reyes,Espinoza,22,La Magdalena Contreras,771266647,10,16
+283,Hector,Pereira,Pereira,21,Coatzehuaya,679708648,5,20
+284,Samuel,Fernandez,Benitez,24,El Zarco,105283649,11,44
+285,Raquel,Reyes,Portillo,19,Los Laureles [Rancho],996151650,3,18
+286,Mariana,Garcia,Zambrano,21,Prolongación Constitución,160814651,9,90
+287,Nora,Reyes,Villalba,19,Rancho Viejo,633837652,6,17
+288,Moises,Fernandez,Reyes,24,Punta Ahuatenco,864357653,3,22
+289,Martin,Morales,Moreno,18,Cuajimalpa de Morelos,169631654,3,32
+290,Andres,Portillo,Castillo,18,Ocotenco (La Loma Cazulco),217527655,5,25
+291,Gerard,Silva,Reyes,22,Puerto las Cruces (Monte las Cruces),375340656,11,26
+292,Samuel,Sanchez,Gutierrez,27,Los Laureles [Rancho],161913657,11,88
+293,Bernardo,Morales,Duarte,25,Paraje Chichicaspa,446240658,3,19
+294,Alba,Rojas,Mejia,27,Paraje Chichicaspa,859129659,4,6
+295,Leticia,Mejia,Lopez,21,El Zarco,877245660,6,6
+296,Hugo,De Leon,Benitez,25,Punta Galicia,934983661,4,26
+297,Mariana,Jimenez,Reyes,22,Santa Laura [Rancho],880251662,5,38
+298,Zeus,Vera,Fernandez,25,Llanos de Acopilco,692421663,9,46
+299,Sara,Munoz,Vera,20,El Ocotal (La Carbonera),267471664,2,6
+300,Alba,Diaz,Perez,23,La Loma,575065665,11,102
+301,Luz,Vargas,Reyes,21,Santa Laura [Rancho],124816666,9,43
+302,Lucas,Garcia,Perez,19,Sehuaya,521137667,6,36
+303,Gabriel,Hernandez,Soto,23,Iztacalco,481731668,3,17
+304,Raquel,Santos,Espinoza,19,La Cañada [Parque],203727669,3,20
+305,Alvaro,Gonzalez,Torres,19,Sehuaya,850240670,9,6
+306,Isis,Reyes,Diaz,21,Iztacalco,131335671,6,46
+307,Samuel,Munoz,Gomez,19,Gustavo A. Madero,410683672,3,19
+308,Lucia,De Leon,Flores,26,Prolongación Constitución,826437673,5,26
+309,Ana,Ramirez,Santos,27,Sehuaya,753214674,6,66
+310,Neymar,Fernandez,Santos,20,Ejido de San Nicolás Totolapan,236691675,9,30
+311,Raquel,Gonzales,Rivera,26,Llanos de Acopilco,243978676,4,20
+312,Ana,Castillo,Gonzales,20,Prolongación Ermitaño,282608677,10,29
+313,Samuel,Gimenez,Gutierrez,25,La Loma,668625678,8,72
+314,Nora,Garcia,Santos,24,Iztapalapa,190171679,9,36
+315,Alejandro,Santana,Duarte,23,La Loma,955777680,3,34
+316,Enzo,Gimenez,Reyes,24,La Loma,450939681,8,31
+317,Enrique,Hernandez,Flores,23,La Polea,322166682,10,6
+318,Lucia,Mora,Mora,18,San Lorenzo Acopilco,153034683,6,6
+319,Eva,Portillo,Pereira,24,La Papa [Escuela Niños Héroes],531538684,3,18
+320,Isabel,Castro,Mora,24,Los Tejocotes,528226685,2,6
+321,Lucia,Perez,Martinez,21,Paraje Cerro de los Padres,827480686,9,16
+322,Ana,Gomez,De Leon,20,La Polea,711042687,4,40
+323,Juan,Jimenez,Silva,23,San Lorenzo Acopilco,420737688,7,18
+324,Alba,Gonzalez,Rivera,23,Ocotenco (La Loma Cazulco),380553689,3,18
+325,Bernardo,Gomez,Rivera,26,Cola de Pato,434614690,2,6
+326,Lucia,Mejia,Portillo,19,Ocotenco (La Loma Cazulco),863637691,6,6
+327,Emma,Silva,Munoz,24,Los Aguacates,135887692,3,32
+328,Isabel,Sosa,Mora,26,Meyuca,827124693,8,84
+329,Raquel,Silva,Reyes,24,Los Laureles [Rancho],932881694,8,6
+330,Leo,Portillo,Benitez,27,La Loma,724192695,6,22
+331,Mariana,Rodriguez,Quispe,18,Albergue Alpino Ajusco,799753696,9,6
+332,Penelope,Fernandez,Gomez,27,Los Tejocotes,330677697,2,11
+333,Margarita,Villalba,Gimenez,23,La Loma,857827698,10,16
+334,Gabriel,Rodriguez,Benitez,26,La Campana [Rancho],436587699,6,6
+335,Alvaro,Diaz,Gonzales,26,Santa Laura [Rancho],919103700,8,6
+336,Leticia,Lopez,Pineda,23,Ejido de San Nicolás Totolapan,541486701,7,6
+337,Felipe,Zambrano,Alvarez,26,Rancho Viejo,256668702,8,6
+338,Alejandro,Vargas,Hernandez,25,Teopazulco,434669703,10,33
+339,Alba,Duarte,Pereira,25,Iztacalco,909136704,11,6
+340,Enzo,De Leon,Rivas,25,Los Tejocotes,771908705,7,18
+341,Ana,Silva,Contreras,27,Totolapan,916554706,11,23
+342,Isabel,Quispe,Fernandez,19,La Campana [Rancho],336061707,8,39
+343,Sara,Diaz,Castro,24,Albergue Alpino Ajusco,186504708,4,17
+344,Ulises,Fernandez,Benitez,21,Ocotenco (La Loma Cazulco),210059709,8,37
+345,Esther,Espinoza,Gimenez,22,Iztacalco,456861710,6,6
+346,Cristiano,Villalba,Santos,18,Iztacalco,874127711,2,16
+347,Alvaro,Santana,Castillo,25,Sehuaya,552148712,2,26
+348,Neymar,Pineda,Pineda,20,Cola de Pato,415688713,8,6
+349,Enzo,Garcia,Rojas,27,Paraje Río Borracho,551736714,8,42
+350,Neymar,Morales,Duarte,20,San Lorenzo Acopilco,304446715,9,6
+351,Ana,Pereira,Martinez,21,Paraje Chichicaspa,975084716,2,26
+352,Eva,Jimenez,Castro,22,Punta Galicia,252288717,7,28
+353,Alejandro,Gutierrez,Diaz,22,Prolongación Constitución,959438718,10,16
+354,Leticia,Gutierrez,Rivas,22,Cruz Blanca,606529719,5,17
+355,Eva,Santana,Villalba,22,La Venta,286494720,6,34
+356,Nora,Perez,Santos,25,Los Cedros,625456721,7,6
+357,Bernardo,Morales,Rivas,25,Coatzehuaya,270415722,5,14
+358,Sara,Ramirez,Portillo,26,La Loma,385455723,3,14
+359,Luz,Castillo,Garcia,26,Cuajimalpa de Morelos,507451724,4,6
+360,Enzo,Vargas,Torres,21,Punta Galicia,229790725,10,58
+361,Ulises,Mamani,Reyes,20,Gustavo A. Madero,723702726,7,18
+362,Lucas,Fernandez,Soto,25,Paraje Río Borracho,346314727,10,56
+363,Penelope,De Leon,Mora,24,Ocotenco (La Loma Cazulco),393854728,8,6
+364,Leo,Rodriguez,Fernandez,20,Totolapan,273385729,11,18
+365,Hugo,Gutierrez,Quispe,20,Meyuca,775581730,4,6
+366,Raquel,Vera,Portillo,24,Sehuaya,231193731,3,6
+367,Gabriel,Soto,Rojas,20,Santa Rosa,630140732,5,6
+368,Isis,Morales,Munoz,20,Segundo Dinamo,579597733,7,6
+369,Mar,Hernandez,Duarte,20,San Lorenzo Acopilco,871084734,5,14
+370,Ulises,Vera,Gomez,24,Prolongación Ermitaño,309102735,6,26
+371,Penelope,Rivas,Morales,20,La Loma,548012736,3,6
+372,Mariana,Rojas,Ramirez,27,El Zarco,848729737,9,42
+373,Gabriel,Reyes,Pineda,24,Valle de las Monjas,604955738,10,13
+374,Leo,Castro,Rivas,26,Prolongación Ermitaño,667976739,11,6
+375,Penelope,Gutierrez,Munoz,27,Santa Laura [Rancho],396599740,2,6
+376,Isabel,Gimenez,Silva,24,Los Aguacates,218566741,2,11
+377,Cristiano,Portillo,Villalba,25,Punta Ahuatenco,819220742,10,6
+378,Alba,Alvarez,Reyes,20,Puerto las Cruces (Monte las Cruces),124446743,5,6
+379,Mar,Pineda,Santana,20,Ocotenco (La Loma Cazulco),951921744,2,12
+380,Lucia,Mamani,Rivas,19,Cruz Blanca,325034745,5,25
+381,Lara,Vargas,Contreras,23,Los Tejocotes,240628746,7,32
+382,Lucas,Diaz,Silva,20,El Ocotal (La Carbonera),413552747,11,11
+383,Penelope,Fernandez,Rojas,27,Rancho Chichicaspa,475217748,5,6
+384,Hugo,Soto,Perez,24,Rancho Viejo,506576749,7,15
+385,Eric,Rodriguez,Gutierrez,26,Los Tejocotes,265332750,3,6
+386,Juan,Flores,Perez,27,La Campana [Rancho],957505751,3,28
+387,Lucia,Gonzales,Alvarez,24,Teopazulco,613464752,8,6
+388,Alejandro,Contreras,Duarte,27,Totolapan,479367753,4,17
+389,Isabel,Castillo,Rivas,19,Prolongación Constitución,771072754,2,24
+390,Emma,Castro,Fernandez,27,Rancho Chichicaspa,414943755,11,74
+391,Raquel,Espinoza,Hernandez,26,Punta Galicia,669466756,2,22
+392,Isabel,Villalba,Moreno,27,Iztapalapa,778519757,5,6
+393,Marta,Alvarez,Gimenez,26,Santa Rosa,861894758,11,6
+394,Alvaro,Gonzales,Castillo,25,Rincón Eslava,560803759,2,16
+395,Andres,Lopez,Ramirez,27,San Lorenzo Acopilco,640832760,5,52
+396,Lara,Reyes,Martinez,23,El Gavillero,555747761,4,26
+397,Andres,Moreno,Hernandez,24,Los Aguacates,600971762,4,6
+398,Samuel,Pereira,Gimenez,24,Iztacalco,172747763,10,6
+399,Ulises,Martinez,Villalba,22,Santa Rosa,473571764,11,90
+400,Bernardo,Diaz,Alvarez,18,Ejido de San Nicolás Totolapan,350015765,4,22
+401,Lucas,Santos,Pineda,27,Rancho Chichicaspa,820255766,11,6
+402,Enrique,Mejia,Sosa,21,Cruz Blanca,864916767,4,6
+403,Leo,Pineda,Ramirez,22,Cuajimalpa de Morelos,130656768,11,16
+404,Isabel,Diaz,Moreno,23,Segundo Dinamo,553096769,3,6
+405,Lara,Villalba,Reyes,27,Paraje Río Borracho,184782770,4,38
+406,Gerard,Sosa,Castillo,25,Los Campesinos [Rancho],536203771,2,6
+407,Samuel,Martinez,De Leon,25,La Polea,405505772,10,94
+408,Margarita,Gonzalez,Zambrano,20,Las Golondrinas,991781773,10,6
+409,Lara,Santana,Jimenez,21,Iztacalco,621465774,5,56
+410,Enrique,Pineda,Sanchez,22,Ejido de San Nicolás Totolapan,753308775,8,6
+411,Jorge,Vera,Rivas,25,Meyuca,202996776,5,22
+412,Alvaro,Alvarez,Pereira,27,Los Cedros,566161777,2,20
+413,Alba,Gutierrez,Portillo,25,Ocotenco (La Loma Cazulco),329207778,3,6
+414,Gabriel,Santos,Rodriguez,20,Totolapan,633735779,10,64
+415,Ulises,Gomez,Santana,23,La Papa [Escuela Niños Héroes],888231780,6,33
+416,Ivan,Santos,Reyes,21,Totolapan,990448781,7,6
+417,Ulises,Munoz,Gomez,18,Llanito Redondo,387332782,7,20
+418,Ulises,Moreno,Benitez,18,Las Golondrinas,866455783,11,76
+419,Felipe,De Leon,Torres,18,La Papa [Escuela Niños Héroes],364693784,2,6
+420,Zeus,Gonzalez,Flores,23,Segundo Dinamo,741903785,8,56
+421,Raquel,Benitez,Santana,21,Los Campesinos [Rancho],734908786,5,52
+422,Alba,Pineda,Flores,25,Ejido de San Nicolás Totolapan,468537787,7,54
+423,Gabriel,Duarte,Munoz,24,Rincón Eslava,103666788,10,106
+424,Ulises,Sanchez,Morales,25,Albergue Alpino Ajusco,549941789,8,6
+425,Isis,Contreras,Gutierrez,25,Segundo Dinamo,106040790,5,6
+426,Neymar,Mora,Fernandez,20,Ocotenco (La Loma Cazulco),237457791,11,6
+427,Leo,Flores,Mejia,20,Rancho Viejo,144577792,10,40
+428,Sara,Mejia,Pineda,26,El Zarco,657983793,4,6
+429,Nora,Garcia,Quispe,21,Valle de las Monjas,737708794,10,94
+430,Hugo,Flores,Vargas,27,Paraje Cerro de los Padres,996416795,11,6
+431,Ulises,Diaz,Garcia,22,El Ocotal (La Carbonera),147244796,4,11
+432,Helena,Morales,Jimenez,24,Coatzehuaya,905982797,5,24
+433,Alejandro,Silva,Vargas,20,Rancho Viejo,745765798,10,20
+434,Eva,Sosa,Reyes,23,Los Aguacates,212122799,5,6
+435,Esther,Rivas,Portillo,24,El Ocotal (La Carbonera),383155800,9,6
+436,Ana,Sanchez,De Leon,19,Llanito Redondo,114897801,6,44
+437,Zeus,Mamani,Diaz,26,Meyuca,736937802,6,6
+438,Felipe,Reyes,Gutierrez,23,Los Campesinos [Rancho],876929803,9,33
+439,Marta,Rodriguez,Vera,20,San Lorenzo Acopilco,880779804,10,52
+440,Luz,Lopez,Vera,25,Llanos de Acopilco,883280805,5,46
+441,Mariana,Garcia,Contreras,19,Las Golondrinas,572457806,5,28
+442,Sara,Santos,Santos,24,Cola de Pato,759598807,8,39
+443,Bernardo,Jimenez,Moreno,26,Los Tejocotes,744854808,10,6
+444,Marta,Rodriguez,Rivas,23,El Ocotal (La Carbonera),707606809,11,50
+445,Isabel,Moreno,Moreno,26,Prolongación Constitución,225938810,5,18
+446,Margarita,Morales,Sanchez,24,Teopazulco,399925811,9,22
+447,Enrique,Martinez,Flores,20,Coatzehuaya,708135812,4,44
+448,Ana,Fernandez,Perez,24,La Magdalena Contreras,992489813,7,6
+449,Alba,Zambrano,Silva,26,Los Aguacates,987874814,7,6
+450,Manuel,Sosa,Mora,19,Ocotenco (La Loma Cazulco),818189815,6,6
+451,Mar,Santos,Mora,20,San Lorenzo Acopilco,313104816,8,6
+452,Martin,Rodriguez,Jimenez,20,Iztapalapa,139182817,10,50
+453,Emma,Zambrano,Reyes,24,El Ocotal (La Carbonera),127433818,3,20
+454,Hector,Contreras,Portillo,18,La Cañada [Parque],161217819,10,60
+455,Marta,Santos,Rojas,25,Rancho Chichicaspa,993178820,3,34
+456,Enzo,Vera,Sosa,27,Los Laureles [Rancho],753514821,8,6
+457,Hugo,Torres,Villalba,20,Ejido de San Nicolás Totolapan,556549822,9,34
+458,Nora,Duarte,Gonzalez,21,La Bolsa (El Encinal),253363823,3,13
+459,Mar,Castillo,Villalba,22,Paraje Río Borracho,956424824,5,6
+460,Alvaro,Soto,De Leon,27,Paraje Chichicaspa,457372825,11,6
+461,Leticia,Salazar,Rodriguez,22,Santa Rosa,375611826,4,24
+462,Leticia,Mejia,Pineda,23,La Campana [Rancho],578892827,5,52
+463,Ana,Pineda,Gonzalez,25,Prolongación Ermitaño,590342828,4,6
+464,Ivan,Hernandez,De Leon,18,Sehuaya,417684829,7,6
+465,Gerard,Salazar,Mamani,24,Paraje Río Borracho,931660830,11,29
+466,Lucas,Castillo,Diaz,18,Prolongación Constitución,715597831,2,6
+467,Leo,Salazar,Hernandez,19,Valle de las Monjas,919682832,5,24
+468,Ana,Torres,Torres,26,Cuajimalpa de Morelos,659296833,11,6
+469,Juan,Gonzales,Mora,20,Valle de las Monjas,106854834,2,18
+470,Ivan,Vargas,Mora,26,Valle de las Monjas,580955835,7,6
+471,Leo,Hernandez,Pineda,21,Las Golondrinas,445277836,7,74
+472,Eva,Alvarez,Moreno,20,Los Cedros,402153837,10,66
+473,Ulises,Gonzalez,Flores,25,Ocotenco (La Loma Cazulco),770792838,7,31
+474,Leo,Rojas,Espinoza,25,Iztapalapa,185716839,8,26
+475,Raul,Santos,Sanchez,18,Totolapan,567217840,8,6
+476,Jorge,Santana,Morales,20,Punta Ahuatenco,506644841,3,6
+477,Hugo,Mejia,Santos,25,Los Tejocotes,616025842,2,15
+478,Esther,Lopez,Pereira,20,Paraje Cerro de los Padres,910560843,10,64
+479,Ulises,Quispe,Ramirez,23,Valle del Tezontle,490652844,2,6
+480,Leo,Mejia,Perez,22,Las Golondrinas,433644845,4,6
+481,Ana,Martinez,Rodriguez,21,Valle del Tezontle,110809846,4,6
+482,Lara,Vargas,Flores,18,La Polea,442817847,11,28
+483,Jorge,Zambrano,Gomez,21,Los Tejocotes,230872848,3,6
+484,Raquel,Sosa,Zambrano,19,Llanito Redondo,863038849,6,6
+485,Emma,Moreno,Gimenez,27,Valle del Tezontle,436911850,8,6
+486,Alba,Quispe,Hernandez,19,El Ocotal (La Carbonera),992381851,7,6
+487,Emma,Martinez,Flores,22,Valle del Tezontle,777258852,6,20
+488,Leo,Pereira,Vargas,25,Paraje Cerro de los Padres,506510853,7,16
+489,Eric,Mora,Mora,27,Los Cedros,938060854,9,37
+490,Moises,Salazar,Soto,26,Rancho Viejo,771506855,2,6
+491,Raul,Gimenez,Santos,20,Ejido de San Nicolás Totolapan,181286856,9,50
+492,Leo,Rivera,Munoz,25,Paraje Cerro de los Padres,313280857,7,32
+493,Marta,Quispe,Diaz,26,Teopazulco,535003858,4,6
+494,Lucia,Vera,Perez,27,Cuajimalpa de Morelos,342138859,5,6
+495,Esther,Rodriguez,Sanchez,20,Puerto las Cruces (Monte las Cruces),854876860,2,22
+496,Raquel,Vargas,Alvarez,26,Los Aguacates,679065861,9,6
+497,Enrique,Hernandez,Santana,24,La Venta,359458862,7,35
+498,Samuel,Pineda,Zambrano,19,Valle del Tezontle,693826863,2,26
+499,Gabriel,Zambrano,Silva,26,La Venta,281586864,5,27
+500,Hugo,Lopez,Alvarez,20,Paraje Cerro de los Padres,465508865,4,22
